@@ -9,3 +9,11 @@ The entire purpose of this repo is educational. I have tinkered with some of the
 If you know the author of any of these projects, please let me know and I will set the right attributions.
 
 A million thanks to the Construct community and to the kind people of Scirra.
+
+
+### Roadmap
+
++ 1: Migrate the projects that I have collected to this repo
++ 2: Create folders that facilitate search and project attribution
++ 3: Add comments that could help learning from the projects
++ 4: Share projects I have created or modified using the base ones
