@@ -18,3 +18,23 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + 3: Add comments that could help learning from the projects
 + 4: Share projects I have created or modified using the base ones
 + 5: Create some educationa content, like videos, explaining different aspects of Construct 3, and game development in general.
+
+
+### List of Projects
+
+_Generate-Level-Map-Loop.c3p
+_Grenade-top-view-r379.c3p
+_Laser-Gun-r3682.c3p
+_Move-2-player-Rope-r4162.c3p
+_Rotate-Object-r3682.c3p
+_Spawn-Tower-Final.c3p
+_Warp-Hero-RPG-Sample.c3p
+_Weapon-Orbit-r397.c3p
+2d3dcam (3).c3p
+2d3dcam_Test (1).c3p
+2d3dcam_Test.c3p
+3D Shooter with mouse.c3p
+3D Shooter without mouse.c3p
+3d_box_and_wedge_collsion_response (1).c3p
+3d_box_and_wedge_collsion_response.c3p
+3d_card_flip.c3p
