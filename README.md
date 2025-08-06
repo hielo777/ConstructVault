@@ -2,7 +2,7 @@
 
 This is a vault containing Construct 2 and Construct 3 sample projects.
 
-I do not claim authorship of these projects. I just want to have a centralized repo for  samples from the forums, blogs, and tutorials that I have collected over the years.
+***I do not claim authorship of these projects.*** I just want to have a centralized repo for  samples from the forums, blogs, and tutorials that I have collected over the years.
 
 The entire purpose of this repo is educational. I have tinkered with some of these projects, and have learn countless lessons learning by example.
 
@@ -17,3 +17,4 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + 2: Create folders that facilitate search and project attribution
 + 3: Add comments that could help learning from the projects
 + 4: Share projects I have created or modified using the base ones
++ 5: Create some educationa content, like videos, explaining different aspects of Construct 3, and game development in general.
