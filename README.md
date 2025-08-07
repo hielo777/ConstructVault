@@ -44,3 +44,6 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + arch_3dmesh.c3p
 + arrayVariables.c3p
 + ASCII_Art.c3p
++ audio-worklets.c3p
++ AutoFill_collisionMap.c3p
++ Battle ship.c3p
