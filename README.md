@@ -41,3 +41,6 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + 3dobjectwalking.c3p
 + 8Direction_Gamepad.c3p
 + 1999Carolina_SF.c3p
++ arch_3dmesh.c3p
++ arrayVariables.c3p
++ ASCII_Art.c3p
