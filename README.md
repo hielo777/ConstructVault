@@ -51,3 +51,6 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + bezier.c3p
 + biters (1).c3p
 + biters.c3p
++ BitmapToTilemap.c3p
++ BlockPuzzle2.c3p
++ boulderDash2.c3p
