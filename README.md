@@ -47,3 +47,7 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + audio-worklets.c3p
 + AutoFill_collisionMap.c3p
 + Battle ship.c3p
++ BendSprite.c3p
++ bezier.c3p
++ biters (1).c3p
++ biters.c3p
