@@ -55,3 +55,6 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + BlockPuzzle2.c3p
 + BitmapToTilemap v02.c3p
 + boulderDash2.c3p
++ BOX_switch_position.c3p
++ Canvas_FloodFill.c3p
++ Car lanes.c3p
