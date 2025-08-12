@@ -58,3 +58,6 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + BOX_switch_position.c3p
 + Canvas_FloodFill.c3p
 + Car lanes.c3p
++ cardflip.c3p
++ CardGame2PlayersC3.c3p
++ carrace.c3p
