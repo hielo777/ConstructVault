@@ -61,3 +61,6 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + cardflip.c3p
 + CardGame2PlayersC3.c3p
 + carrace.c3p
++ ceilingSlopes.c3p
++ CentralRandomIsland.c3p
++ chain_stiffness.c3p
