@@ -22,48 +22,70 @@ A million thanks to the Construct community and to the kind people of Scirra.
 
 ### List of Projects
 
-+ _Generate-Level-Map-Loop.c3p
-+ _Grenade-top-view-r379.c3p
-+ _Laser-Gun-r3682.c3p
-+ _Move-2-player-Rope-r4162.c3p
-+ _Rotate-Object-r3682.c3p
-+ _Spawn-Tower-Final.c3p
-+ _Warp-Hero-RPG-Sample.c3p
-+ _Weapon-Orbit-r397.c3p
-+ 2d3dcam (3).c3p
-+ 2d3dcam_Test (1).c3p
-+ 2d3dcam_Test.c3p
-+ 3D Shooter with mouse.c3p
-+ 3D Shooter without mouse.c3p
-+ 3d_box_and_wedge_collsion_response (1).c3p
-+ 3d_box_and_wedge_collsion_response.c3p
-+ 3d_card_flip.c3p
-+ 3dobjectwalking.c3p
-+ 8Direction_Gamepad.c3p
-+ 1999Carolina_SF.c3p
-+ arch_3dmesh.c3p
-+ arrayVariables.c3p
-+ ASCII_Art.c3p
-+ audio-worklets.c3p
-+ AutoFill_collisionMap.c3p
-+ Battle ship.c3p
-+ BendSprite.c3p
-+ bezier.c3p
-+ biters (1).c3p
-+ biters.c3p
-+ BitmapToTilemap.c3p
-+ BlockPuzzle2.c3p
-+ BitmapToTilemap v02.c3p
-+ boulderDash2.c3p
-+ BOX_switch_position.c3p
-+ Canvas_FloodFill.c3p
-+ Car lanes.c3p
-+ cardflip.c3p
-+ CardGame2PlayersC3.c3p
-+ carrace.c3p
-+ ceilingSlopes.c3p
-+ CentralRandomIsland.c3p
-+ chain_stiffness.c3p
-+ ChainLightning.c3p
-+ Color.c3p
-+ ColorOverlay2.c3p
+<details>
+<summary>0-9</summary>
+
+- _Generate-Level-Map-Loop.c3p
+- _Grenade-top-view-r379.c3p
+- _Laser-Gun-r3682.c3p
+- _Move-2-player-Rope-r4162.c3p
+- _Rotate-Object-r3682.c3p
+- _Spawn-Tower-Final.c3p
+- _Warp-Hero-RPG-Sample.c3p
+- _Weapon-Orbit-r397.c3p
+- 2d3dcam (3).c3p
+- 2d3dcam_Test (1).c3p
+- 2d3dcam_Test.c3p
+- 3D Shooter with mouse.c3p
+- 3D Shooter without mouse.c3p
+- 3d_box_and_wedge_collsion_response (1).c3p
+- 3d_box_and_wedge_collsion_response.c3p
+- 3d_card_flip.c3p
+- 3dobjectwalking.c3p
+- 8Direction_Gamepad.c3p
+- 1999Carolina_SF.c3p
+</details>
+
+<details>
+<summary>A</summary>
+
+- arch_3dmesh.c3p
+- arrayVariables.c3p
+- ASCII_Art.c3p
+- audio-worklets.c3p
+- AutoFill_collisionMap.c3p
+
+</details>
+
+<details>
+<summary>B</summary>
+
+- Battle ship.c3p
+- BendSprite.c3p
+- bezier.c3p
+- biters (1).c3p
+- biters.c3p
+- BitmapToTilemap.c3p
+- BlockPuzzle2.c3p
+- BitmapToTilemap v02.c3p
+- boulderDash2.c3p
+- BOX_switch_position.c3p
+
+</details>
+
+<details>
+<summary>C</summary>
+
+- Canvas_FloodFill.c3p
+- Car lanes.c3p
+- cardflip.c3p
+- CardGame2PlayersC3.c3p
+- carrace.c3p
+- ceilingSlopes.c3p
+- CentralRandomIsland.c3p
+- chain_stiffness.c3p
+- ChainLightning.c3p
+- Color.c3p
+- ColorOverlay2.c3p
+
+</details>
