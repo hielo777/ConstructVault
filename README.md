@@ -64,3 +64,6 @@ A million thanks to the Construct community and to the kind people of Scirra.
 + ceilingSlopes.c3p
 + CentralRandomIsland.c3p
 + chain_stiffness.c3p
++ ChainLightning.c3p
++ Color.c3p
++ ColorOverlay2.c3p
