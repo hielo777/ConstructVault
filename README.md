@@ -1,23 +1,27 @@
+<a id="readme-top"></a>
+
 # Construct Projects Vault
 
 This is a vault containing Construct 2 and Construct 3 sample projects.
 
-***I do not claim authorship of these projects.*** I just want to have a centralized repo for  samples from the forums, blogs, and tutorials that I have collected over the years.
+***I do not claim authorship of these projects.***  I just want to have a centralized repo for  samples from the forums, blogs, and tutorials that I have collected over the years.
 
 The entire purpose of this repo is educational. I have tinkered with some of these projects, and have learn countless lessons learning by example.
 
 If you know the author of any of these projects, please let me know and I will set the right attributions.
 
-A million thanks to the Construct community and to the kind people of Scirra.
+A million thanks to the [Construct community](https://www.construct.net/en/forum) and to the kind people of [Scirra](https://www.construct.net/en).
 
 
 ### Roadmap
 
-+ 1: Migrate the projects that I have collected to this repo
-+ 2: Create folders that facilitate search and project attribution
-+ 3: Add comments that could help learning from the projects
-+ 4: Share projects I have created or modified using the base ones
-+ 5: Create some educationa content, like videos, explaining different aspects of Construct 3, and game development in general.
+- [ ] 1: Migrate the projects that I have collected to this repo
+- [ ] 2: Create folders that facilitate search and project attribution
+- [ ] 3: Add comments that could help learning from the projects
+- [ ] 4: Share projects I have created or modified using the base ones
+- [ ] 5: Create some educationa content, like videos, explaining different aspects of Construct 3, and game development in general.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### List of Projects
@@ -44,6 +48,8 @@ A million thanks to the Construct community and to the kind people of Scirra.
 - 3dobjectwalking.c3p
 - 8Direction_Gamepad.c3p
 - 1999Carolina_SF.c3p
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
 <details>
@@ -55,6 +61,7 @@ A million thanks to the Construct community and to the kind people of Scirra.
 - audio-worklets.c3p
 - AutoFill_collisionMap.c3p
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
 <details>
@@ -71,6 +78,7 @@ A million thanks to the Construct community and to the kind people of Scirra.
 - boulderDash2.c3p
 - BOX_switch_position.c3p
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
 <details>
@@ -87,5 +95,9 @@ A million thanks to the Construct community and to the kind people of Scirra.
 - ChainLightning.c3p
 - Color.c3p
 - ColorOverlay2.c3p
+- ColorPickerTextbox.c3p
+- ContainersAndFamilies.c3p
+- Copy of Dino Turret.c3p
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
