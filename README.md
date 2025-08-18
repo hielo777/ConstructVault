@@ -2,7 +2,7 @@
 
 # Construct Projects Vault
 
-This is a vault containing Construct 2 and Construct 3 sample projects.
+This is a vault containing Construct 3 and Construct 2 sample projects.
 
 ***I do not claim authorship of these projects.***  I just want to have a centralized repo for  samples from the forums, blogs, and tutorials that I have collected over the years.
 
@@ -21,7 +21,6 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - [ ] 4: Share projects I have created or modified using the base ones
 - [ ] 5: Create some educationa content, like videos, explaining different aspects of Construct 3, and game development in general.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### List of Projects
@@ -98,6 +97,11 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - ColorPickerTextbox.c3p
 - ContainersAndFamilies.c3p
 - Copy of Dino Turret.c3p
+- cube_roll.c3p
+- CurvedWires.c3p
+- CutImage_JigsawPuzzle.c3p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
+
+<p align="left">(<a href="#readme-top">back to top</a>)</p>
