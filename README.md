@@ -110,6 +110,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 - dead worlds without the chatgpt stuff.c3p
 - dead worlds.c3p
+- DISCO VOLADOR.c3p
+- DrawPathAndMoveAlongIt (1).c3p
+- DrawPathAndMoveAlongIt.c3p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
