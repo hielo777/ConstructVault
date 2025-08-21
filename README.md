@@ -123,6 +123,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 - Easy_EnemyChase_Example (1).c3p
 - Easy_EnemyChase_Example.c3p
+- ExpandingImageTrick.c3p
+- external_lib_issue (1).c3p
+- external_lib_issue.c3p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
