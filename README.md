@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# Construct Projects Vault
+# 🗃️ Construct Projects Vault
 
 This is a vault containing Construct 3 and Construct 2 sample projects.
 
@@ -12,21 +12,27 @@ If you know the author of any of these projects, please let me know and I will s
 
 A million thanks to the [Construct community](https://www.construct.net/en/forum) and to the kind people of [Scirra](https://www.construct.net/en).
 
+***
 
-### Roadmap
+## 🔀 Changes:
+- [x] Create folders for all the projects to keep the vault better organized
+
+***
+
+## ⛐🗺️ Roadmap
 
 - [ ] 1: Migrate the projects that I have collected to this repo
-- [ ] 2: Create folders that facilitate search and project attribution
-- [ ] 3: Add comments that could help learning from the projects
+- [x] 2: Create folders that facilitate search and project attribution
+- [ ] 3: Add a summary of each project in their respective folders. That could help learning from the projects
 - [ ] 4: Share projects I have created or modified using the base ones
 - [ ] 5: Create some educationa content, like videos, explaining different aspects of Construct 3, and game development in general.
 
+***
 
-
-### List of Projects
+## 📝 List of Projects
 
 <details>
-<summary>0-9</summary>
+<summary> 🔢 _0-9</summary>
 
 - _Generate-Level-Map-Loop.c3p
 - _Grenade-top-view-r379.c3p
@@ -51,8 +57,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
+***
+
 <details>
-<summary>A</summary>
+<summary>🍎 A</summary>
 
 - arch_3dmesh.c3p
 - arrayVariables.c3p
@@ -63,8 +71,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
+***
+
 <details>
-<summary>B</summary>
+<summary>🏀 B</summary>
 
 - Battle ship.c3p
 - BendSprite.c3p
@@ -80,8 +90,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
+***
+
 <details>
-<summary>C</summary>
+<summary>🐱 C</summary>
 
 - Canvas_FloodFill.c3p
 - Car lanes.c3p
@@ -105,8 +117,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
+***
+
 <details>
-<summary>D</summary>
+<summary>🐶 D</summary>
 
 - dead worlds without the chatgpt stuff.c3p
 - dead worlds.c3p
@@ -118,8 +132,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
+***
+
 <details>
-<summary>E</summary>
+<summary>🐘 E</summary>
 
 - Easy_EnemyChase_Example (1).c3p
 - Easy_EnemyChase_Example.c3p
@@ -130,9 +146,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
+***
 
 <details>
-<summary>F</summary>
+<summary>🌸 F</summary>
 
 - family_order_byType.c3p
 - fast-radial-progress-bar-demo.c3p
@@ -140,5 +157,130 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
+
+***
+
+<!--
+
+<details>
+<summary>😎 G</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🏠 H</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🍦 I</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🐆 J</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🪁 K</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🦁 L</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🐒 M</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🪺 N</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🍊 O</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🐷 P</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>👸🏻 Q</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🤖 R</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>☀️ S</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🌳 T</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>☂️ U</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🎻 V</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>⏱️ W</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🩻 X</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🧶 Y</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+
+<details>
+<summary>🦓 Z</summary>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details>
+-->
 
 <p align="left">(<a href="#readme-top">back to top</a>)</p>
