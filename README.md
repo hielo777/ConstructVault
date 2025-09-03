@@ -154,6 +154,12 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - family_order_byType.c3p
 - fast-radial-progress-bar-demo.c3p
 - FillTheBlankWord-Fill in the blank.c3p
+- find_room_name.c3p
+- fish_maybe.c3p
+- flock_02.c3p
+- flock.c3p
+- floor_mirror.c3p
+- Fog of War (RTS game).c3p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
