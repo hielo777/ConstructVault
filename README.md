@@ -160,6 +160,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - flock.c3p
 - floor_mirror.c3p
 - Fog of War (RTS game).c3p
+- FollowSnake.c3p
+- FPS_Controller_Episode1_Example.c3p
+- FramingEffectsAndZoom.c3p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
