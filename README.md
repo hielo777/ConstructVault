@@ -1,5 +1,11 @@
 <a id="readme-top"></a>
 
+![Status](https://img.shields.io/badge/status-under--development-yellow)
+![Made with Construct 3](https://img.shields.io/badge/built%20with-Construct%203-blue?logo=construct3)
+
+[![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://<your-username>.github.io/WordGame/)
+![GitHub last commit](https://img.shields.io/github/last-commit/hielo777/ConstructVault)
+
 # 🗃️ Construct Projects Vault
 
 This is a vault containing Construct 3 and Construct 2 sample projects.
