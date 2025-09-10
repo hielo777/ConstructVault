@@ -188,15 +188,19 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 ***
 
-<!--
+
 <details>
 <summary>🏠 H</summary>
+
+- help.c3p
+- Hex Pathfinding.c3p
+- hex2color.c3p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details>
 
 ***
-
+<!--
 <details>
 <summary>🍦 I</summary>
 
