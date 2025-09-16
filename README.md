@@ -215,13 +215,17 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 ***
 
-<!--
+
 <details>
 <summary>🐆 J</summary>
+
+- joyconsample.c3p
+- jumpArc (1).c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
+<!--
 ***
 
 <details>
