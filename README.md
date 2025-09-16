@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/status-under--development-yellow)
 ![Made with Construct 3](https://img.shields.io/badge/built%20with-Construct%203-blue?logo=construct3)
-
 [![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://<your-username>.github.io/WordGame/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hielo777/ConstructVault)
 
@@ -21,17 +20,18 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 ***
 
 ## 🔀 Changes:
-- [x] Create folders for all the projects to keep the vault better organized
+- [x] Created folders for all the projects to keep the vault better organized
+- [x] Cleaned and improved the Readme of the project
 
 ***
 
 ## ⛐🗺️ Roadmap
 
 - [ ] 1: Migrate the projects that I have collected to this repo
-- [x] 2: Create folders that facilitate search and project attribution
+- [x] 2: Created folders that facilitate search and project attribution
 - [ ] 3: Add a summary of each project in their respective folders. That could help learning from the projects
 - [ ] 4: Share projects I have created or modified using the base ones
-- [ ] 5: Create some educationa content, like videos, explaining different aspects of Construct 3, and game development in general.
+- [ ] 5: Create some educational content, like videos, explaining different aspects of Construct 3, and game development in general.
 
 ***
 
@@ -60,7 +60,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - 8Direction_Gamepad.c3p
 - 1999Carolina_SF.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -74,7 +74,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - audio-worklets.c3p
 - AutoFill_collisionMap.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -93,7 +93,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - boulderDash2.c3p
 - BOX_switch_position.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -120,7 +120,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - CutImage_JigsawPuzzle.c3p
 - cycle_through_family.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -135,7 +135,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - DrawPathAndMoveAlongIt.c3p
 - DungeonWallMarkers-Map Flooding.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -149,7 +149,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - external_lib_issue (1).c3p
 - external_lib_issue.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -171,7 +171,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - FramingEffectsAndZoom.c3p
 - frontline_w_effects.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -183,7 +183,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Gearbox.c3p
 - grab the stick.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -195,24 +195,31 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - help.c3p
 - Hex Pathfinding.c3p
 - hex2color.c3p
+- htmlpage.c3p
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
-<!--
+
 <details>
 <summary>🍦 I</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- iFrame_CallFunction.c3p
+- Infinity Panning.c3p
+- island_orbit.c3p
+- isometricgame.c3p
+
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
 
+<!--
 <details>
 <summary>🐆 J</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -220,7 +227,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🪁 K</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -228,7 +235,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🦁 L</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -236,7 +243,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🐒 M</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -244,7 +251,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🪺 N</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -252,7 +259,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🍊 O</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -260,7 +267,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🐷 P</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -268,7 +275,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>👸🏻 Q</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -276,7 +283,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🤖 R</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -284,7 +291,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>☀️ S</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -292,7 +299,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🌳 T</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -300,7 +307,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>☂️ U</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -308,7 +315,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🎻 V</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -316,7 +323,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>⏱️ W</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -324,7 +331,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🩻 X</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -332,7 +339,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🧶 Y</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
@@ -340,10 +347,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🦓 Z</summary>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
 -->
 
-<p align="left">(<a href="#readme-top">back to top</a>)</p>
+<p align="left">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
