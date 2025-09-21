@@ -234,15 +234,23 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
+
+-->
 ***
 
 <details>
 <summary>🦁 L</summary>
 
+- laser_los.c3p
+- Letter Tracing.c3p
+- load-array-json.c3p
+
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
+
+<!--
 
 <details>
 <summary>🐒 M</summary>
