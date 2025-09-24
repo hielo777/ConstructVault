@@ -259,6 +259,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - marchingSquares (2).c3p
 - marchingSquares.c3p
 - marchingSquares2.c3p
+- match3gameadvancedmatch.c3p
+- matchitensblockchain.c3p
+
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
