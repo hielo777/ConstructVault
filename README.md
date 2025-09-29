@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-under--development-yellow)
 ![Made with Construct 3](https://img.shields.io/badge/built%20with-Construct%203-blue?logo=construct3)
-[![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://<your-username>.github.io/WordGame/)
+[![Play in Browser](https://img.shields.io/badge/Play--Now-Browser-green?logo=google-chrome&logoColor=white)](https://hielo777.github.io/ConstructVault/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hielo777/ConstructVault)
 
 # 🗃️ Construct Projects Vault
@@ -261,6 +261,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - marchingSquares2.c3p
 - match3gameadvancedmatch.c3p
 - matchitensblockchain.c3p
+- mesh_slice3.c3p
+- MeshPoints_Episode2_Example (1).c3p
+- MeshPoints_Episode2_Example.c3p
 
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
