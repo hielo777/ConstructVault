@@ -264,6 +264,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - mesh_slice3.c3p
 - MeshPoints_Episode2_Example (1).c3p
 - MeshPoints_Episode2_Example.c3p
+- meshtest2.c3p
+- MinimapRound.c3p
+- modtest.c3p
 
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
