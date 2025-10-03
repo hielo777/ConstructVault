@@ -283,6 +283,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 - node_connect_path.c3p
 - NonLinearPlot-Non-linear plot.c3p
+- new-boids.c3p
+- new-boids (2).c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
