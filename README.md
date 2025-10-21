@@ -303,15 +303,24 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 ***
 
-<!--
 
 <details>
 <summary>🐷 P</summary>
+
+- physics_ball.c3p
+- PhysicsChain-Physics Chain or Rope.c3p
+- PinChain3.c3p
+- platforminfo-test.c3p
+- Pokemon type game.c3p
+- PredictableWheelOfFortune.c3p
+- Procedural world.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
+
+<!--
 
 <details>
 <summary>👸🏻 Q</summary>
