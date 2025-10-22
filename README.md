@@ -320,15 +320,21 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 ***
 
-<!--
+
 
 <details>
 <summary>👸🏻 Q</summary>
+
+- qarp_drag.c3p
+- QR_Encoding.c3p
+- QuizDemo_LoadFromFile-Simple Quiz.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
+
+<!--
 
 <details>
 <summary>🤖 R</summary>
