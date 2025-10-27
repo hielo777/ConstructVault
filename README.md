@@ -334,15 +334,24 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 ***
 
-<!--
+
 
 <details>
 <summary>🤖 R</summary>
+
+- Racing game  (1).c3p
+- Racing game .c3p
+- Radar Chart Mesh106.c3p
+- radial-progress-bar.c3p
+- radial-progress.c3p
+- Random Map Generation Test.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
+
+<!--
 
 <details>
 <summary>☀️ S</summary>
