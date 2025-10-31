@@ -345,6 +345,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - radial-progress-bar.c3p
 - radial-progress.c3p
 - Random Map Generation Test.c3p
+- raycast_mouse_cube.c3p
+- read_pixels from canvas.c3p
+- ResizeRectangle-Bounding Area.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
