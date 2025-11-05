@@ -348,6 +348,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - raycast_mouse_cube.c3p
 - read_pixels from canvas.c3p
 - ResizeRectangle-Bounding Area.c3p
+- Revival (17.11.2023).c3p
+- riveexample.c3p
+- rotjs-fov-test.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
