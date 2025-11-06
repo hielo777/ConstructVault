@@ -351,6 +351,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Revival (17.11.2023).c3p
 - riveexample.c3p
 - rotjs-fov-test.c3p
+- rotjs-islandtest.c3p
+- rotjs.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
