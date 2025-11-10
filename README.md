@@ -359,15 +359,21 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 ***
 
-<!--
+
 
 <details>
 <summary>☀️ S</summary>
+
+- ScorchedBuildingsWithWindows-Destructible Terrain.c3p
+- ScreenShot question2.c3p
+- ScrollText.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
+
+<!--
 
 <details>
 <summary>🌳 T</summary>
