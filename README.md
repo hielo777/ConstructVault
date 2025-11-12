@@ -367,6 +367,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - ScorchedBuildingsWithWindows-Destructible Terrain.c3p
 - ScreenShot question2.c3p
 - ScrollText.c3p
+- Seesaw.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
