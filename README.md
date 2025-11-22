@@ -370,6 +370,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Seesaw.c3p
 - SelectAndDragIcons-Select and drag icons.c3p
 - SeparateText Orig.c3p
+- SeparateText.c3p
+- Sharkie3.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
