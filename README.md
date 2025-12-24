@@ -364,14 +364,31 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>☀️ S</summary>
 
+- ScaleOuterDemo2.c3p
+- ScaleOuterDemo2 (1).c3p
+- ScaleOuterRes.c3p
 - ScorchedBuildingsWithWindows-Destructible Terrain.c3p
 - ScreenShot question2.c3p
 - ScrollText.c3p
 - Seesaw.c3p
 - SelectAndDragIcons-Select and drag icons.c3p
-- SeparateText Orig.c3p
 - SeparateText.c3p
+- SeparateText Orig.c3p
 - Sharkie3.c3p
+- Snail game.c3p
+- Solids v 0-1.c3p
+- SonicRerun copy.c3p
+- Sonic construct-3-cosmic-framework-reboot-version-1.3.c3p
+- SpeechBubble-Speech Bubble.c3p
+- Split Screen Example.c3p
+- SpritefontTextInput.c3p
+- Sprite Overlap with Itself alextro Version.c3p
+- shop(functions).c3p
+- sortArray.c3p
+- sortGlobals.c3p
+- sortInstanceVariables.c3p
+- splitscreenc3pminimal.c3p
+- splitscreenexample.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
