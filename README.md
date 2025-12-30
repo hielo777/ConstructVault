@@ -395,15 +395,21 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 ***
 
-<!--
+
 
 <details>
 <summary>🌳 T</summary>
+
+- ternary_and_or.c3p
+- Terrain builder (1).c3p
+- TerrainDetection-Terrain Detection.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
+
+<!--
 
 <details>
 <summary>☂️ U</summary>
