@@ -403,6 +403,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - ternary_and_or.c3p
 - Terrain builder (1).c3p
 - TerrainDetection-Terrain Detection.c3p
+- TestBoids_2.c3p
+- TestBoids.c3p
+- text_test.c3p
+- Text2AnimalCrossingSpeech.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
