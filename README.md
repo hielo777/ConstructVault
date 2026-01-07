@@ -407,6 +407,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - TestBoids.c3p
 - text_test.c3p
 - Text2AnimalCrossingSpeech.c3p
+- Text2Characters.c3p
+- TiledBgDragger.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
