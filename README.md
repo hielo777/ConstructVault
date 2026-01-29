@@ -417,6 +417,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - ToborDestroyTemplate.c3p
 - ToHellAndBack.c3p
 - Top_Down_GTA2_Style_City_Demo.c3p
+- TopGearClone.c3p
+- Tower Defense 0815 C3.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
