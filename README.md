@@ -419,6 +419,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Top_Down_GTA2_Style_City_Demo.c3p
 - TopGearClone.c3p
 - Tower Defense 0815 C3.c3p
+- TrajectoryCalculation (1).c3p
+- TrajectoryCalculation.c3p
+- transformingTheCanvas.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
