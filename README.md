@@ -453,16 +453,20 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 ***
 
-<!--
+
 
 <details>
 <summary>⏱️ W</summary>
+
+- weightedRandomFLowchart.c3p
+- whackamole.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
 
+<!--
 <details>
 <summary>🩻 X</summary>
 
