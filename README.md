@@ -208,6 +208,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - iFrame_CallFunction.c3p
 - Infinity Panning.c3p
 - island_orbit.c3p
+- IsometricFarming.c3p
 - isometricgame.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
