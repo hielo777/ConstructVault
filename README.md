@@ -461,6 +461,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 - weightedRandomFLowchart.c3p
 - whackamole.c3p
+- wobbler.c3p
+- wobbler2.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
