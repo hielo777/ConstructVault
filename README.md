@@ -412,7 +412,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - TiledBgDragger.c3p
 - TileFloodFill-v3-Tile Flood Fill.c3p
 - Tilemap_isometric_walls.c3p
+- Tilemap_test.c3p
 - Tilemap.c3p
+- TilemapsCompressor.c3p
 - timeline_follow (1).c3p
 - timeline_follow.c3p
 - ToborDestroyTemplate.c3p
