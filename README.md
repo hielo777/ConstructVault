@@ -490,15 +490,20 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
+-->
+
 ***
 
 <details>
 <summary>🦓 Z</summary>
 
+- zoom_blue_box-Zoom a Sprite.c3p
+- ZoomPinch-Pinch Zoom.c3p
+
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 ***
--->
+
 
 <p align="left">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
