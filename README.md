@@ -57,6 +57,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - 3d_box_and_wedge_collsion_response.c3p
 - 3d_card_flip.c3p
 - 3dobjectwalking.c3p
+- 4 direction chase & avoid (1).capx
+- 4 direction chase & avoid.capx
+- 4 direction press touch.capx
 - 8Direction_Gamepad.c3p
 - 1999Carolina_SF.c3p
 
