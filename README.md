@@ -61,6 +61,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - 4 direction chase & avoid.capx
 - 4 direction press touch.capx
 - 8Direction_Gamepad.c3p
+- 8DirectionCamera.capx
+- 360direction_movement.capx
 - 1999Carolina_SF.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
