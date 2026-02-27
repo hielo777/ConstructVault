@@ -64,6 +64,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - 8DirectionCamera.capx
 - 360direction_movement.capx
 - 1999Carolina_SF.c3p
+- 2048 game test v02.capx
+- 2048 P Template 260214.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
