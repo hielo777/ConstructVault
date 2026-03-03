@@ -75,6 +75,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🍎 A</summary>
 
+- aero_sword (1).capx
+- aero_sword.capx
 - arch_3dmesh.c3p
 - arrayVariables.c3p
 - ASCII_Art.c3p
