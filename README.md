@@ -81,7 +81,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - angularslopewalking.capx
 - arch_3dmesh.c3p
 - arrayVariables.c3p
+- arrivalSteeringBehavior.capx
 - ASCII_Art.c3p
+- aspect_resize_handles.capx
 - audio-worklets.c3p
 - AutoFill_collisionMap.c3p
 
