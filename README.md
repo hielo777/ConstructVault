@@ -85,6 +85,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - ASCII_Art.c3p
 - aspect_resize_handles.capx
 - audio-worklets.c3p
+- auto_missile (1).capx
+- auto_missile.capx
 - AutoFill_collisionMap.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
