@@ -88,6 +88,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - auto_missile (1).capx
 - auto_missile.capx
 - AutoFill_collisionMap.c3p
+- Avoid_Obstacles_PUSH (1).capx
+- Avoid_Obstacles_PUSH.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
