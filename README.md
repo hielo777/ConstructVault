@@ -113,6 +113,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - BOX_switch_position.c3p
 - box_walk.capx
 - branch_path_gen.capx
+- bullet_ascendant.capx
+- bullet_hell_pattern.capx
 
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
