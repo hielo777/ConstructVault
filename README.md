@@ -115,6 +115,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - branch_path_gen.capx
 - bullet_ascendant.capx
 - bullet_hell_pattern.capx
+- bump-stop.capx
+- butterflies v7.capx
 
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
