@@ -128,12 +128,14 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <summary>🐱 C</summary>
 
 - Canvas_FloodFill.c3p
+- cape_physics.capx
 - Car lanes.c3p
 - cardflip.c3p
 - CardGame2PlayersC3.c3p
 - carrace.c3p
 - ceilingSlopes.c3p
 - CentralRandomIsland.c3p
+- chain_ang_limit.capx
 - chain_stiffness.c3p
 - ChainLightning.c3p
 - Color.c3p
