@@ -138,6 +138,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - chain_ang_limit.capx
 - chain_stiffness.c3p
 - ChainLightning.c3p
+- circular move 0628 v2.capx
+- Circular Movement Cool.capx
 - Color.c3p
 - ColorOverlay2.c3p
 - ColorPickerTextbox.c3p
