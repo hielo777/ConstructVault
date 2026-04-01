@@ -140,6 +140,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - ChainLightning.c3p
 - circular move 0628 v2.capx
 - Circular Movement Cool.capx
+- Circular Movement Walk Around 0819.capx
+- Clock'O Gear (1).capx
 - Color.c3p
 - ColorOverlay2.c3p
 - ColorPickerTextbox.c3p
