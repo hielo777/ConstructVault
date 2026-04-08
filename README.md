@@ -152,6 +152,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - ColorOverlay2.c3p
 - ColorPickerTextbox.c3p
 - ContainersAndFamilies.c3p
+- contoh_highscore.capx
+- contoh_kode.capx
 - Copy of Dino Turret.c3p
 - cube_roll.c3p
 - CurvedWires.c3p
