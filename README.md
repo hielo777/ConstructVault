@@ -155,6 +155,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - contoh_highscore.capx
 - contoh_kode.capx
 - Copy of Dino Turret.c3p
+- crazyPathFromRooms.capx
+- crossword_alextro (1).capx
 - cube_roll.c3p
 - CurvedWires.c3p
 - CutImage_JigsawPuzzle.c3p
