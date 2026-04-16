@@ -174,9 +174,12 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - dead worlds without the chatgpt stuff.c3p
 - dead worlds.c3p
 - destroy terrain (1).capx
+- destroy terrain.capx
+- Dialogue Box template v03.capx
 - DISCO VOLADOR.c3p
 - DrawPathAndMoveAlongIt (1).c3p
 - DrawPathAndMoveAlongIt.c3p
+- Drive mobile game (4).c3p
 - DungeonWallMarkers-Map Flooding.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
