@@ -176,6 +176,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - destroy terrain (1).capx
 - destroy terrain.capx
 - Dialogue Box template v03.capx
+- dialogue_panel (1).capx
+- dialogue_panel (2).capx
+- dialogue_panel (3).capx
 - DISCO VOLADOR.c3p
 - DrawPathAndMoveAlongIt (1).c3p
 - DrawPathAndMoveAlongIt.c3p
