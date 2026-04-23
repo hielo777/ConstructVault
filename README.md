@@ -182,6 +182,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - DISCO VOLADOR.c3p
 - display_item_stats.capx
 - door_warp_by_tag.capx
+- dots.capx
+- drag_along_path.capx
 - DrawPathAndMoveAlongIt (1).c3p
 - DrawPathAndMoveAlongIt.c3p
 - Drive mobile game (4).c3p
