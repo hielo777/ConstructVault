@@ -176,9 +176,11 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - destroy terrain (1).capx
 - destroy terrain.capx
 - Dialogue Box template v03.capx
+- Dialogue box with XML v2.capx
 - dialogue_panel (1).capx
 - dialogue_panel (2).capx
 - dialogue_panel (3).capx
+- dialogue_panel.capx
 - DISCO VOLADOR.c3p
 - display_item_stats.capx
 - door_warp_by_tag.capx
