@@ -186,6 +186,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - door_warp_by_tag.capx
 - dots.capx
 - drag_along_path.capx
+- drag_along_path2 (1).capx
+- drag_along_path2.capx
 - DrawPathAndMoveAlongIt (1).c3p
 - DrawPathAndMoveAlongIt.c3p
 - Drive mobile game (4).c3p
