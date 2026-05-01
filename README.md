@@ -192,6 +192,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - DrawPathAndMoveAlongIt.c3p
 - Drive mobile game (4).c3p
 - DungeonWallMarkers-Map Flooding.c3p
+- dust_proxy.capx
+- dynamic_attaching.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
