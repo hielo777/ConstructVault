@@ -194,6 +194,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - DungeonWallMarkers-Map Flooding.c3p
 - dust_proxy.capx
 - dynamic_attaching.capx
+- dynamic_attaching2.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
@@ -205,6 +206,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 - Easy_EnemyChase_Example (1).c3p
 - Easy_EnemyChase_Example.c3p
+- efficient_pad border_area.capx
 - ExpandingImageTrick.c3p
 - external_lib_issue (1).c3p
 - external_lib_issue.c3p
