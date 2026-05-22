@@ -243,7 +243,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - FollowSnake.c3p
 - FPS_Controller_Episode1_Example.c3p
 - FramingEffectsAndZoom.c3p
+- fret_touch.capx
 - frontline_w_effects.c3p
+- Fruit Slicer.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
