@@ -288,6 +288,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - iFrame_CallFunction.c3p
 - Image Redrawn (1).c3p
 - Image Redrawn.c3p
+- indexing_color_test.capx
+- inf_vert_scroll.capx
 - Infinity Panning.c3p
 - island_orbit.c3p
 - IsometricFarming.c3p
