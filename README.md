@@ -290,7 +290,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Image Redrawn.c3p
 - indexing_color_test.capx
 - inf_vert_scroll.capx
+- Infinite Jumper with Touch.capx
 - Infinity Panning.c3p
+- integrationTests.capx
 - island_orbit.c3p
 - IsometricFarming.c3p
 - isometricgame.c3p
