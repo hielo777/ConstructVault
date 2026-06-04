@@ -294,8 +294,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Infinity Panning.c3p
 - integrationTests.capx
 - island_orbit.c3p
+- iso_tile_map_example_rev.capx
 - IsometricFarming.c3p
 - isometricgame.c3p
+- isoView_jumpWithShadow.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
