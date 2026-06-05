@@ -293,6 +293,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Infinite Jumper with Touch.capx
 - Infinity Panning.c3p
 - integrationTests.capx
+- intersecting_area_point_check (1).capx
+- intersecting_area_point_check.capx
 - island_orbit.c3p
 - iso_tile_map_example_rev.capx
 - IsometricFarming.c3p
