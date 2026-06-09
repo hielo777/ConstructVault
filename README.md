@@ -311,6 +311,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <summary>🐆 J</summary>
 
 - jigsaw_puzzle_ani.capx
+- jigsaw_puzzle_pic (1).capx
+- jigsaw_puzzle_pic.capx
 - joyconsample.c3p
 - jumpArc (1).c3p
 
