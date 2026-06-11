@@ -314,6 +314,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - jigsaw_puzzle_pic (1).capx
 - jigsaw_puzzle_pic.capx
 - joyconsample.c3p
+- js_read_image_from_clipboard.capx
+- jump_choice.capx
 - jumpArc (1).c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
