@@ -321,17 +321,19 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
-<!--
+
 ***
 
 <details>
 <summary>🪁 K</summary>
 
+- keep global var.capx
+
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
 
 
--->
+
 ***
 
 <details>
