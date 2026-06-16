@@ -339,6 +339,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🦁 L</summary>
 
+- Laser Sine_waving.capx
 - laser_los.c3p
 - Letter Tracing.c3p
 - load-array-json.c3p
