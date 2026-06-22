@@ -344,6 +344,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Letter Tracing.c3p
 - LevelSaveMenu (1).capx
 - LevelSaveMenu.capx
+- liars_dice.capx
+- lightning_charge (1).capx
 - load-array-json.c3p
 - LocalStorageSaveVariables.c3p
 - Loop_through_family.c3p
