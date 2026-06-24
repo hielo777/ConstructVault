@@ -346,6 +346,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - LevelSaveMenu.capx
 - liars_dice.capx
 - lightning_charge (1).capx
+- lightning_charge.capx
+- line intersect.capx
 - load-array-json.c3p
 - LocalStorageSaveVariables.c3p
 - Loop_through_family.c3p
