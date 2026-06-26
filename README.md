@@ -350,6 +350,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - line intersect.capx
 - load-array-json.c3p
 - LocalStorageSaveVariables.c3p
+- login.capx
+- looking_pupils.capx
 - Loop_through_family.c3p
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
