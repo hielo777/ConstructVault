@@ -353,6 +353,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - login.capx
 - looking_pupils.capx
 - Loop_through_family.c3p
+- loop&spawn.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
