@@ -363,6 +363,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🐒 M</summary>
 
+- ManyCoins.c3p
+- map_map_to_layout.capx
 - marchingSquares (1).c3p
 - marchingSquares (2).c3p
 - marchingSquares.c3p
