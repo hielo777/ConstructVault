@@ -369,8 +369,11 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - marchingSquares (2).c3p
 - marchingSquares.c3p
 - marchingSquares2.c3p
+- mario_record.capx
+- match_by_swap.capx
 - match3gameadvancedmatch.c3p
 - matchitensblockchain.c3p
+- maze_expand.capx
 - mesh_slice3.c3p
 - MeshPoints_Episode2_Example (1).c3p
 - MeshPoints_Episode2_Example.c3p
