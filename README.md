@@ -15,6 +15,8 @@ The entire purpose of this repo is educational. I have tinkered with some of the
 
 If you know the author of any of these projects, please let me know and I will set the right attributions.
 
+In future updates I will try to convert the Construct 2 projects to Construct 3, to allow new developers to use the collective knowledge of older examples.
+
 A million thanks to the [Construct community](https://www.construct.net/en/forum) and to the kind people of [Scirra](https://www.construct.net/en).
 
 ***
