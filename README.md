@@ -376,11 +376,13 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - match3gameadvancedmatch.c3p
 - matchitensblockchain.c3p
 - maze_expand.capx
+- menu_mag.capx
 - mesh_slice3.c3p
 - MeshPoints_Episode2_Example (1).c3p
 - MeshPoints_Episode2_Example.c3p
 - meshtest2.c3p
 - MinimapRound.c3p
+- minisweepy (1).capx
 - modtest.c3p
 - My Basic Ad Setup Demo.c3p
 - MyBasicSetup.c3p
