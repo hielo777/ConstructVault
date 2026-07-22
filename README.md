@@ -383,7 +383,11 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - meshtest2.c3p
 - MinimapRound.c3p
 - minisweepy (1).capx
+- minisweepy.capx
 - modtest.c3p
+- monolar_en.capx
+- moving_bacground_vari.capx
+- moving_up (1).capx
 - My Basic Ad Setup Demo.c3p
 - MyBasicSetup.c3p
 - MyMeshTest.c3p
