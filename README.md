@@ -388,6 +388,8 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - monolar_en.capx
 - moving_bacground_vari.capx
 - moving_up (1).capx
+- moving_up (2).capx
+- moving_up.capx
 - My Basic Ad Setup Demo.c3p
 - MyBasicSetup.c3p
 - MyMeshTest.c3p
