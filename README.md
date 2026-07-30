@@ -405,8 +405,10 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🪺 N</summary>
 
+- npc_dialogue.capx
 - node_connect_path.c3p
 - NonLinearPlot-Non-linear plot.c3p
+- ninjaStroke.capx
 - new-boids.c3p
 - new-boids (2).c3p
 - New Flood Experiment 0606.capx
