@@ -426,7 +426,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 
 - onet_test.capx
 - onet2.capx
+- Open Street Maps osm_loader.capx
 - Overlap benchmark.c3p
+- overlap_group_tag.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
