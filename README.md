@@ -429,6 +429,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Open Street Maps osm_loader.capx
 - Overlap benchmark.c3p
 - overlap_group_tag.capx
+- Overlapping objects sat_test2.capx
 
 <p align="right">(<a href="#readme-top">⬆  back to top  ⬆</a>)</p>
 </details>
