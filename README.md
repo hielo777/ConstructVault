@@ -440,6 +440,9 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🐷 P</summary>
 
+- path_orient3.capx
+- path_predict_percise_contact (1).capx
+- Pathfinding maze.c3p
 - physics_ball.c3p
 - PhysicsChain-Physics Chain or Rope.c3p
 - PinChain3.c3p
