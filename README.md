@@ -443,6 +443,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - path_orient3.capx
 - path_predict_precise_contact (1).capx
 - path_predict_precise_contact.capx
+- path_predict.capx
 - Pathfinding maze.c3p
 - pathfinding vs spline.c3p
 - Patrol Experiment 05 square area.c3p
