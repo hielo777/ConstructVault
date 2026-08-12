@@ -446,6 +446,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - path_predict.capx
 - path_touch (1).capx
 - path_touch (2).capx
+- path_touch.capx
 - Pathfinding maze.c3p
 - pathfinding vs spline.c3p
 - Patrol Experiment 05 square area.c3p
