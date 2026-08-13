@@ -452,6 +452,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - Patrol Experiment 05 square area.c3p
 - physics_ball.c3p
 - PhysicsChain-Physics Chain or Rope.c3p
+- pick_anim_based_variable.capx
 - PinChain3.c3p
 - platforminfo-test.c3p
 - Pokemon type game.c3p
