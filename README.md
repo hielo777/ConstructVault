@@ -453,6 +453,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - physics_ball.c3p
 - PhysicsChain-Physics Chain or Rope.c3p
 - pick_anim_based_variable.capx
+- pin_to_pin_new.capx
 - PinChain3.c3p
 - platforminfo-test.c3p
 - Pokemon type game.c3p
