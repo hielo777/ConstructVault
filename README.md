@@ -455,6 +455,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - pick_anim_based_variable.capx
 - pin_to_pin_new.capx
 - PinChain3.c3p
+- pindahkan_dragdrop.capx
 - platforminfo-test.c3p
 - Pokemon type game.c3p
 - PredictableWheelOfFortune.c3p
