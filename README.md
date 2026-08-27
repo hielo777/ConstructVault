@@ -60,6 +60,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - 3d_card_flip.c3p
 - 3d_cube_quat_rotation.c3p
 - 3dobjectwalking.c3p
+- 3dRotate_sprite_mesh.c3p
 - 4 direction chase & avoid (1).capx
 - 4 direction chase & avoid.capx
 - 4 direction press touch.capx
