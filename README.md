@@ -114,6 +114,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - bllt_bounce (1).capx
 - bllt_bounce.capx
 - blocksy_puzzle.capx
+- blue_noise.c3p
 - boulderDash2.c3p
 - BOX_switch_position.c3p
 - box_walk.capx
