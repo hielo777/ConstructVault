@@ -118,6 +118,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - boulderDash2.c3p
 - BOX_switch_position.c3p
 - box_walk.capx
+- box3dexample.c3p
 - branch_path_gen.capx
 - bullet_ascendant.capx
 - bullet_hell_pattern.capx
