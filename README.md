@@ -136,6 +136,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <summary>🐱 C</summary>
 
 - CameraMario.c3p
+- Canvas_FloodFill (1)26.c3p
 - Canvas_FloodFill.c3p
 - cape_physics.capx
 - Car lanes.c3p
