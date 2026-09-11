@@ -135,6 +135,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <details>
 <summary>🐱 C</summary>
 
+- Calling JS from events.c3p
 - CameraMario.c3p
 - Canvas_FloodFill (1)26.c3p
 - Canvas_FloodFill.c3p
