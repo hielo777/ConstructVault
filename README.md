@@ -161,6 +161,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - cloth_verlet2.capx
 - collapse_puzzle_rev (1).capx
 - collapse_puzzle_rev.capx
+- color_picker.c3p
 - Color.c3p
 - ColorOverlay2.c3p
 - ColorPickerTextbox.c3p
