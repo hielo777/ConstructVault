@@ -154,6 +154,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 - circular move 0628 v2.capx
 - Circular Movement Cool.capx
 - Circular Movement Walk Around 0819.capx
+- clippingmask.c3p
 - Clock'O Gear (1).capx
 - Clock'O Gear.capx
 - closest_between_value.capx
