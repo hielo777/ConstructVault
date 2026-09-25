@@ -24,6 +24,7 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 ## 🔀 Changes:
 - [x] Created folders for all the projects to keep the vault better organized
 - [x] Cleaned and improved the Readme of the project
+- [ ] Adding readme files to the individual folders to be able to create the detailed descriptions of the different projects
 
 ***
 
