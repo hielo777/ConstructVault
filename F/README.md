@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# 🐘 E Projects Detail
+# 🌸 F Projects Detail
 
 > **Note:** This file is currently under active construction. This README serves as a temporary placeholder and will be updated soon with full documentation for all files included in this folder.
 I am detailing below the type of information I will add for the different projects. This format may change over time.
