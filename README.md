@@ -675,20 +675,26 @@ A million thanks to the [Construct community](https://www.construct.net/en/forum
 <!--
 Template for individual projects detail:
 
-### File: arch_3dmesh.c3p
-**Engine:** Construct 3
-**Category:** 
-**Overview**
-- The project takes a simple Sprite and generates a 3d arch. Every tick the arch is being rotated modifying the position of the 3d camera object.
+### 📁 File: arch_3dmesh.c3p
+**⚙️ Engine:** Construct 3
+
+**🗂️ Category:** 3D, 2.5D, 3D Camera
+
+**ℹ️ Overview**
+- The project takes a simple Sprite and generates a 3d arch. 
+- Every tick the arch is being rotated modifying the position of the 3d camera object.
  
 
-**Problem / Purpose**
+**💥 Problem / Purpose**
+- Creating a 3D object using a simple 2D Sprite
+- Rotating the 3D camera to showcase an object
 
-**Implementation**
+**🪛 Implementation**
 
-**Key Concepts**
+**🔭 Key Concepts**
 
-**Original Source**
+**🔍 Original Source**
 https://www.construct.net/en/forum/construct-3/how-do-i-8/create-3d-object-179806#forumPost1100471
+
 
 -->
