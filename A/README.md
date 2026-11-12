@@ -18,12 +18,15 @@ This section will detail the main **purpose** of the project, including:
 
 ### File: arch_3dmesh.c3p
 **Engine:** Construct 3
-**Category:** 
+**Category:** 3D, 2.5D, 3D Camera
 **Overview**
-- The project takes a simple Sprite and generates a 3d arch. Every tick the arch is being rotated modifying the position of the 3d camera object.
+- The project takes a simple Sprite and generates a 3d arch. 
+- Every tick the arch is being rotated modifying the position of the 3d camera object.
  
 
 **Problem / Purpose**
+- Creating a 3D object using a simple 2D Sprite
+- Rotating the 3D camera to showcase an object
 
 **Implementation**
 
