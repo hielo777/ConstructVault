@@ -38,6 +38,9 @@ At the start of of the Layout, the events:
 After that, an event running every tick, moves the 3d Camera object around the arch, showcasing its 3D shape.
 
 **🔭 Key Concepts**
+- Sprite Mesh manipulation
+- 3D Camera use
+- Turning 2D into 3D
 
 **🔍 Original Source**
 https://www.construct.net/en/forum/construct-3/how-do-i-8/create-3d-object-179806#forumPost1100471
