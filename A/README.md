@@ -49,6 +49,29 @@ https://www.construct.net/en/forum/construct-3/how-do-i-8/create-3d-object-17980
 
 ---
 
+
+### 📁 File: arrayVariables orig.c3p
+**⚙️ Engine:** Construct 3
+
+**🗂️ Category:** 3D, 2.5D, 3D Camera
+
+**ℹ️ Overview**
+- The project 
+ 
+
+**💥 Problem / Purpose**
+- Creating a 
+
+**🪛 Implementation**
+
+**🔭 Key Concepts**
+
+**🔍 Original Source**
+
+
+
+---
+
 ## 🚀 Quick Start & Tutorials
 *(Mini-tutorials will be added here)*
 
