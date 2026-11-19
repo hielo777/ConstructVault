@@ -56,6 +56,30 @@ https://www.construct.net/en/forum/construct-3/how-do-i-8/create-3d-object-17980
 **🗂️ Category:** 3D, 2.5D, 3D Camera
 
 **ℹ️ Overview**
+- The project helps developers understanding how to use arrays in Construct.
+ 
+
+**💥 Problem / Purpose**
+- Creating a set of useful Array functions, the project shows how Arrays can be integrated in different projects.
+
+**🪛 Implementation**
+- Most of the events are manipulating an Array object to insert, modify, and delete data given by the player.
+
+**🔭 Key Concepts**
+
+**🔍 Original Source**
+
+
+
+---
+
+
+### 📁 File: arrayVariables orig.c3p
+**⚙️ Engine:** Construct 3
+
+**🗂️ Category:** 3D, 2.5D, 3D Camera
+
+**ℹ️ Overview**
 - The project 
  
 
