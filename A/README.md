@@ -74,7 +74,7 @@ https://www.construct.net/en/forum/construct-3/how-do-i-8/create-3d-object-17980
 ---
 
 
-### 📁 File: arrayVariables orig.c3p
+### 📁 File: ASCII_Art.c3p
 **⚙️ Engine:** Construct 3
 
 **🗂️ Category:** 3D, 2.5D, 3D Camera
