@@ -80,11 +80,11 @@ https://www.construct.net/en/forum/construct-3/how-do-i-8/create-3d-object-17980
 **🗂️ Category:** 3D, 2.5D, 3D Camera
 
 **ℹ️ Overview**
-- The project 
+- The project shows an old school computer screen.
  
 
 **💥 Problem / Purpose**
-- Creating a 
+- Using a ASCII art image saved in a Sprite, the game slowly shows the Sprite content line by line, giving the improession that the image has been created on run-time.
 
 **🪛 Implementation**
 
